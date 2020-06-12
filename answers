@@ -1,0 +1,12 @@
+1.Explain the difference between Relational Databases and SQL.
+ -A relational database is a type of database. It uses a structure that allows us to identify and access data in relation to another piece of data in the database. Often, data in a relational database is organized into tables.
+ -SQL (Structured Query Language) is a programming language used to communicate with data stored in a relational database management system. SQL syntax is similar to the English language, which makes it relatively easy to write, read, and interpret.
+
+2.Why do tables need a primary key?
+ - A primary key is a table column that serves a special purpose. Each database table needs a primary key because it ensures row-level accessibility.
+
+3.What is the name given to a table column that references the primary key on another table.
+ -Foreign key
+
+4.What do we need in order to have a many to many relationship between two tables.
+ -the middle table that joins everything "red box"
